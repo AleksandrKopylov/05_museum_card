@@ -3,12 +3,11 @@
 }
 
 .card {
-    border: solid 2px #c0bfbf;
+    border: 2px solid #c0bfbf;
     border-radius: 10px;
     width: 720px;
     padding: 30px;
     margin: 100px auto;
-    height: 700px;
 }
 
 .card_date {
