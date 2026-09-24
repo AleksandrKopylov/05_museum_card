@@ -1,9 +1,13 @@
+.card_img_person{
+    width: 100%;
+}
+
 .card {
     border: solid 2px #c0bfbf;
     border-radius: 10px;
     width: 720px;
     padding: 30px;
-    margin: 100px 0 0 500px;
+    margin: 100px auto;
     height: 700px;
 }
 
